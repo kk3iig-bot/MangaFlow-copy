@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"اكتشف مانغا"},{"path":"/search","title":"البحث"},{"path":"/favorites","title":"المفضلة"},{"path":"/history","title":"متابعة القراءة"},{"path":"/manga/:id","title":"تفاصيل العمل"},{"path":"/read/:mangaId/:chapterId","title":"قارئ الفصول"}]}
